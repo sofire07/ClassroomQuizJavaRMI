@@ -15,7 +15,7 @@ and forwards messages to online users.
 - rmiregistry&
 
 - Starts server
--- java -Djava.security.policy=java.policy ClickerServer
+  - java -Djava.security.policy=java.policy ClickerServer
 
 - Starts clients
--- java -Djava.security.policy=java.policy UserGUI [Insert IP Address here]
+  - java -Djava.security.policy=java.policy UserGUI [Insert IP Address here]
